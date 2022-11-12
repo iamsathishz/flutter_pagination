@@ -1,16 +1,11 @@
-# flutter_pagination
+# Flutter Pagination
 
-Flutter pagination
+Clean architecture with Bloc + Dependency injection
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+  <img height="600" src="https://user-images.githubusercontent.com/89626590/201486863-c5d5d753-8184-49b5-b0f5-ba415407fa6c.JPEG">
+  <img height="600" src="https://user-images.githubusercontent.com/89626590/201486866-107fc51d-6ccc-4ae2-8cee-8450c1e4bd22.JPEG">
+  <img height="600" src="https://user-images.githubusercontent.com/89626590/201486867-7193e092-c623-4f6b-96a4-116ad48d2a65.JPEG">
+</p>
